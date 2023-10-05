@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![An image of @sterapps's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sterapps)](https://holopin.io/@sterapps)
+
 <!--
 **sterapps/sterapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
